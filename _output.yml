@@ -1,5 +1,5 @@
 bookdown::bs4_book:
-  base_url: ""
+  base_url: "https://adambozman.com/tutorials"
   css: style.css
   self_contained: false
   theme:
