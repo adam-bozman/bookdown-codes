@@ -1,6 +1,7 @@
 bookdown::bs4_book:
   base_url: ""
   css: style.css
+  self_contained: false
   theme:
     primary: "#096B72"
   repo: https://github.com/adam-bozman/bookdown-codes
